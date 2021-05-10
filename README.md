@@ -1,5 +1,5 @@
 ## todo
-* write the pintrest scraper
+* write the pinterest scraper
 * use the scraper to collect labelled data
 * train some sort of style embedders
 * get style clustering working decently
