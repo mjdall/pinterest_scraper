@@ -23,21 +23,25 @@ setup. Enjoy!
 ## Pinterest Scraper TODO
 * <del>write the pinterest scraper</del>
 * <del>use the scraper to collect labelled data</del>
-* refactor the data collection notebook into a python class
+* <del>refactor the data collection notebook into a python class</del>
 
 ## DNN Work
 * <del>have a look into popular DNN's for image classification</del>
     * effecientnet - seems to be the most popular currently
-* figure out how to use a fine-tuned DNN to perform a semantic search (doing atm)
+* <del>figure out how to use a fine-tuned DNN to perform a semantic search</del>
 * look into extracting style from images
 * experiment with style transfer
 * look into semantic style similarity - semantic similarity but on style-based embedding layer
-* run umap on the image embeddings
+* <del>run umap/pacmap on the image embeddings</del>
 
 ## Embedding Visualisation
-* render umap translation in 3d via web app
+* <del>render umap translation in 3d via web app</del>
 * visual semantic similarity - KNN or some graph-based visualisation
 * HDBSCAN applied to images for visualisation?
 
 ## Refinements
-* Pull a better dataset from pinterest rather than just suggestions
+* Pull a whole lot of labels from pinterest
+* Remove colours from images for training
+
+## Web App
+* Create shiny application for interacting with the model and the embeddings
